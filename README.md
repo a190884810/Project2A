@@ -1,2 +1,2 @@
-# Project2
+# Project2A
 We would like to implement a system that keeps track of folders and the files they contain. A folder has a name, a size (in bytes), and a collection of files. A folder may contain multiple folders and multiple files. A file has a name and a size. Whenever a file is added to or deleted, the size of the parent folder changes. Similarly, whenever a folder (containing files) is deleted, the size of the parent folder changes. However, adding a new (empty) folder doesn’t change the size of its parent folder.
